@@ -1,0 +1,7 @@
+d:\Users\Home\Desktop\Основи Програмування\Семестр 2\Лабораторна робота 5\CTO Simulator\bin\Debug\CTO Simulator.exe.config
+d:\Users\Home\Desktop\Основи Програмування\Семестр 2\Лабораторна робота 5\CTO Simulator\bin\Debug\CTO Simulator.exe
+d:\Users\Home\Desktop\Основи Програмування\Семестр 2\Лабораторна робота 5\CTO Simulator\bin\Debug\CTO Simulator.pdb
+d:\Users\Home\Desktop\Основи Програмування\Семестр 2\Лабораторна робота 5\CTO Simulator\obj\Debug\CTO Simulator.csprojAssemblyReference.cache
+d:\Users\Home\Desktop\Основи Програмування\Семестр 2\Лабораторна робота 5\CTO Simulator\obj\Debug\CTO Simulator.csproj.CoreCompileInputs.cache
+d:\Users\Home\Desktop\Основи Програмування\Семестр 2\Лабораторна робота 5\CTO Simulator\obj\Debug\CTO Simulator.exe
+d:\Users\Home\Desktop\Основи Програмування\Семестр 2\Лабораторна робота 5\CTO Simulator\obj\Debug\CTO Simulator.pdb
